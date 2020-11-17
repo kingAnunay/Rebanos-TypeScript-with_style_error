@@ -1,2 +1,2 @@
-# Rebanos-TypeScript-with_style_error
+# Rebanos-TypeScript
 Created with CodeSandbox
